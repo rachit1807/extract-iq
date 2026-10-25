@@ -3,6 +3,8 @@
 # ExtractIQ
 ### From web. To workable.
 
+[**Launch ExtractIQ ↗**](https://extract-iq-rachit.onrender.com) · [Source code](https://github.com/rachit1807/extract-iq)
+
 An interactive web extraction workbench that turns public HTML into structured, searchable, exportable data.
 
 <p>
@@ -17,6 +19,8 @@ An interactive web extraction workbench that turns public HTML into structured, 
 </p>
 
 </div>
+
+![ExtractIQ live extraction preview](docs/preview.png)
 
 ## The workflow
 
